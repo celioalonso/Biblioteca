@@ -1,24 +1,14 @@
 # README
+Library. Program to organize book collection. Example application with CRUD. Created with Ruby on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Biblioteca. Programa para organizar acervo de livros. Exemplo de aplicativo com CRUD. Criado com ruby on rails.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version "3.1.2"
+* Ruby on Rails version "7.0.2"
 
-* System dependencies
 
-* Configuration
+To run the application, open the terminal and issue the command:
+$ rails
+Then go to localhost:3000/books
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
